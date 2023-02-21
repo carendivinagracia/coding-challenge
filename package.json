@@ -1,0 +1,19 @@
+{
+  "name": "coding-challenge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "solution.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carendivinagracia/coding-challenge.git"
+  },
+  "author": "Caren Divinagracia",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carendivinagracia/coding-challenge/issues"
+  },
+  "homepage": "https://github.com/carendivinagracia/coding-challenge#readme"
+}
